@@ -1,8 +1,9 @@
 # CCN Assignment 2 - Socket Programming
-Student Name: Anusha Hussain Randhawa
-Course: CCN Spring 2025
-Class Code: 98443
-Instructor Name: Mr Muhammad Waseem Arain
+## Student Name: Anusha Hussain Randhawa
+
+`Course: CCN Spring 2025
+`Class Code: 98443
+`Instructor Name: Mr Muhammad Waseem Arain
 
 ## Overview
 This repository contains a comparison of TCP and UDP protocols through socket programming in Python. The implementation measures and analyzes the differences in latency, packet loss, and throughput between these two fundamental transport protocols.
