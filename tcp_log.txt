@@ -1,0 +1,429 @@
+2025-05-20 20:08:14,183 - Connection failed. Make sure the server is running.
+2025-05-20 20:08:32,528 - Connection failed. Make sure the server is running.
+2025-05-20 20:08:57,672 - TCP Server started on 127.0.0.1:65432
+2025-05-20 20:09:14,318 - Client connected: ('127.0.0.1', 65134)
+2025-05-20 20:09:14,318 - Connected to TCP server at 127.0.0.1:65432
+2025-05-20 20:09:14,319 - Received: TCP Message #1
+2025-05-20 20:09:14,321 - Sent: TCP Message #1, Response: Received: TCP Message #1, RTT: 0.00 ms
+2025-05-20 20:09:14,332 - Received: TCP Message #2
+2025-05-20 20:09:14,334 - Sent: TCP Message #2, Response: Received: TCP Message #2, RTT: 1.00 ms
+2025-05-20 20:09:14,387 - Received: TCP Message #3
+2025-05-20 20:09:14,389 - Sent: TCP Message #3, Response: Received: TCP Message #3, RTT: 39.01 ms
+2025-05-20 20:09:14,404 - Received: TCP Message #4
+2025-05-20 20:09:14,405 - Sent: TCP Message #4, Response: Received: TCP Message #4, RTT: 3.00 ms
+2025-05-20 20:09:14,428 - Received: TCP Message #5
+2025-05-20 20:09:14,440 - Sent: TCP Message #5, Response: Received: TCP Message #5, RTT: 12.98 ms
+2025-05-20 20:09:14,454 - Received: TCP Message #6
+2025-05-20 20:09:14,457 - Sent: TCP Message #6, Response: Received: TCP Message #6, RTT: 2.97 ms
+2025-05-20 20:09:14,507 - Received: TCP Message #7
+2025-05-20 20:09:14,534 - Sent: TCP Message #7, Response: Received: TCP Message #7, RTT: 40.01 ms
+2025-05-20 20:09:14,550 - Received: TCP Message #8
+2025-05-20 20:09:14,552 - Sent: TCP Message #8, Response: Received: TCP Message #8, RTT: 5.00 ms
+2025-05-20 20:09:14,573 - Received: TCP Message #9
+2025-05-20 20:09:14,574 - Sent: TCP Message #9, Response: Received: TCP Message #9, RTT: 10.00 ms
+2025-05-20 20:09:14,604 - Received: TCP Message #10
+2025-05-20 20:09:14,621 - Sent: TCP Message #10, Response: Received: TCP Message #10, RTT: 20.00 ms
+2025-05-20 20:09:14,638 - Received: TCP Message #11
+2025-05-20 20:09:14,639 - Sent: TCP Message #11, Response: Received: TCP Message #11, RTT: 4.99 ms
+2025-05-20 20:09:14,655 - Received: TCP Message #12
+2025-05-20 20:09:14,694 - Sent: TCP Message #12, Response: Received: TCP Message #12, RTT: 5.00 ms
+2025-05-20 20:09:14,711 - Received: TCP Message #13
+2025-05-20 20:09:14,737 - Sent: TCP Message #13, Response: Received: TCP Message #13, RTT: 6.01 ms
+2025-05-20 20:09:14,751 - Received: TCP Message #14
+2025-05-20 20:09:14,762 - Sent: TCP Message #14, Response: Received: TCP Message #14, RTT: 3.00 ms
+2025-05-20 20:09:14,786 - Received: TCP Message #15
+2025-05-20 20:09:14,790 - Sent: TCP Message #15, Response: Received: TCP Message #15, RTT: 13.00 ms
+2025-05-20 20:09:14,842 - Received: TCP Message #16
+2025-05-20 20:09:14,908 - Sent: TCP Message #16, Response: Received: TCP Message #16, RTT: 41.01 ms
+2025-05-20 20:09:14,974 - Received: TCP Message #17
+2025-05-20 20:09:15,003 - Sent: TCP Message #17, Response: Received: TCP Message #17, RTT: 54.02 ms
+2025-05-20 20:09:15,058 - Received: TCP Message #18
+2025-05-20 20:09:15,140 - Sent: TCP Message #18, Response: Received: TCP Message #18, RTT: 41.01 ms
+2025-05-20 20:09:15,176 - Received: TCP Message #19
+2025-05-20 20:09:15,192 - Sent: TCP Message #19, Response: Received: TCP Message #19, RTT: 23.01 ms
+2025-05-20 20:09:15,273 - Received: TCP Message #20
+2025-05-20 20:09:15,276 - Sent: TCP Message #20, Response: Received: TCP Message #20, RTT: 70.03 ms
+2025-05-20 20:09:15,293 - Received: TCP Message #21
+2025-05-20 20:09:15,388 - Sent: TCP Message #21, Response: Received: TCP Message #21, RTT: 7.00 ms
+2025-05-20 20:09:15,474 - Received: TCP Message #22
+2025-05-20 20:09:15,483 - Sent: TCP Message #22, Response: Received: TCP Message #22, RTT: 75.00 ms
+2025-05-20 20:09:15,501 - Received: TCP Message #23
+2025-05-20 20:09:15,509 - Sent: TCP Message #23, Response: Received: TCP Message #23, RTT: 8.00 ms
+2025-05-20 20:09:15,526 - Received: TCP Message #24
+2025-05-20 20:09:15,528 - Sent: TCP Message #24, Response: Received: TCP Message #24, RTT: 6.00 ms
+2025-05-20 20:09:15,573 - Received: TCP Message #25
+2025-05-20 20:09:15,576 - Sent: TCP Message #25, Response: Received: TCP Message #25, RTT: 34.01 ms
+2025-05-20 20:09:15,589 - Received: TCP Message #26
+2025-05-20 20:09:15,591 - Sent: TCP Message #26, Response: Received: TCP Message #26, RTT: 3.00 ms
+2025-05-20 20:09:15,641 - Received: TCP Message #27
+2025-05-20 20:09:15,656 - Sent: TCP Message #27, Response: Received: TCP Message #27, RTT: 38.01 ms
+2025-05-20 20:09:15,688 - Received: TCP Message #28
+2025-05-20 20:09:15,700 - Sent: TCP Message #28, Response: Received: TCP Message #28, RTT: 21.01 ms
+2025-05-20 20:09:15,741 - Received: TCP Message #29
+2025-05-20 20:09:15,751 - Sent: TCP Message #29, Response: Received: TCP Message #29, RTT: 30.01 ms
+2025-05-20 20:09:15,777 - Received: TCP Message #30
+2025-05-20 20:09:15,803 - Sent: TCP Message #30, Response: Received: TCP Message #30, RTT: 15.35 ms
+2025-05-20 20:09:15,825 - Received: TCP Message #31
+2025-05-20 20:09:15,827 - Sent: TCP Message #31, Response: Received: TCP Message #31, RTT: 9.00 ms
+2025-05-20 20:09:15,859 - Received: TCP Message #32
+2025-05-20 20:09:15,894 - Sent: TCP Message #32, Response: Received: TCP Message #32, RTT: 21.01 ms
+2025-05-20 20:09:15,912 - Received: TCP Message #33
+2025-05-20 20:09:15,956 - Sent: TCP Message #33, Response: Received: TCP Message #33, RTT: 8.00 ms
+2025-05-20 20:09:15,975 - Received: TCP Message #34
+2025-05-20 20:09:15,977 - Sent: TCP Message #34, Response: Received: TCP Message #34, RTT: 6.00 ms
+2025-05-20 20:09:16,103 - Received: TCP Message #35
+2025-05-20 20:09:16,133 - Sent: TCP Message #35, Response: Received: TCP Message #35, RTT: 116.03 ms
+2025-05-20 20:09:16,156 - Received: TCP Message #36
+2025-05-20 20:09:16,226 - Sent: TCP Message #36, Response: Received: TCP Message #36, RTT: 13.00 ms
+2025-05-20 20:09:16,295 - Received: TCP Message #37
+2025-05-20 20:09:16,303 - Sent: TCP Message #37, Response: Received: TCP Message #37, RTT: 25.99 ms
+2025-05-20 20:09:16,320 - Received: TCP Message #38
+2025-05-20 20:09:16,323 - Sent: TCP Message #38, Response: Received: TCP Message #38, RTT: 4.00 ms
+2025-05-20 20:09:16,343 - Received: TCP Message #39
+2025-05-20 20:09:16,370 - Sent: TCP Message #39, Response: Received: TCP Message #39, RTT: 8.97 ms
+2025-05-20 20:09:16,407 - Received: TCP Message #40
+2025-05-20 20:09:16,409 - Sent: TCP Message #40, Response: Received: TCP Message #40, RTT: 25.01 ms
+2025-05-20 20:09:16,421 - Received: TCP Message #41
+2025-05-20 20:09:16,425 - Sent: TCP Message #41, Response: Received: TCP Message #41, RTT: 1.00 ms
+2025-05-20 20:09:16,439 - Received: TCP Message #42
+2025-05-20 20:09:16,442 - Sent: TCP Message #42, Response: Received: TCP Message #42, RTT: 4.00 ms
+2025-05-20 20:09:16,471 - Received: TCP Message #43
+2025-05-20 20:09:16,475 - Sent: TCP Message #43, Response: Received: TCP Message #43, RTT: 18.01 ms
+2025-05-20 20:09:16,489 - Received: TCP Message #44
+2025-05-20 20:09:16,494 - Sent: TCP Message #44, Response: Received: TCP Message #44, RTT: 3.00 ms
+2025-05-20 20:09:16,524 - Received: TCP Message #45
+2025-05-20 20:09:16,528 - Sent: TCP Message #45, Response: Received: TCP Message #45, RTT: 18.99 ms
+2025-05-20 20:09:16,555 - Received: TCP Message #46
+2025-05-20 20:09:16,558 - Sent: TCP Message #46, Response: Received: TCP Message #46, RTT: 16.00 ms
+2025-05-20 20:09:16,573 - Received: TCP Message #47
+2025-05-20 20:09:16,574 - Sent: TCP Message #47, Response: Received: TCP Message #47, RTT: 4.00 ms
+2025-05-20 20:09:16,590 - Received: TCP Message #48
+2025-05-20 20:09:16,594 - Sent: TCP Message #48, Response: Received: TCP Message #48, RTT: 5.00 ms
+2025-05-20 20:09:16,627 - Received: TCP Message #49
+2025-05-20 20:09:16,637 - Sent: TCP Message #49, Response: Received: TCP Message #49, RTT: 20.98 ms
+2025-05-20 20:09:16,657 - Received: TCP Message #50
+2025-05-20 20:09:16,660 - Sent: TCP Message #50, Response: Received: TCP Message #50, RTT: 9.00 ms
+2025-05-20 20:09:16,671 - Received: TCP Message #51
+2025-05-20 20:09:16,676 - Sent: TCP Message #51, Response: Received: TCP Message #51, RTT: 0.99 ms
+2025-05-20 20:09:16,688 - Received: TCP Message #52
+2025-05-20 20:09:16,706 - Sent: TCP Message #52, Response: Received: TCP Message #52, RTT: 1.00 ms
+2025-05-20 20:09:16,839 - Received: TCP Message #53
+2025-05-20 20:09:16,968 - Sent: TCP Message #53, Response: Received: TCP Message #53, RTT: 118.03 ms
+2025-05-20 20:09:17,011 - Received: TCP Message #54
+2025-05-20 20:09:17,018 - Sent: TCP Message #54, Response: Received: TCP Message #54, RTT: 25.00 ms
+2025-05-20 20:09:17,057 - Received: TCP Message #55
+2025-05-20 20:09:17,075 - Sent: TCP Message #55, Response: Received: TCP Message #55, RTT: 27.01 ms
+2025-05-20 20:09:17,088 - Received: TCP Message #56
+2025-05-20 20:09:17,090 - Sent: TCP Message #56, Response: Received: TCP Message #56, RTT: 3.00 ms
+2025-05-20 20:09:17,102 - Received: TCP Message #57
+2025-05-20 20:09:17,121 - Sent: TCP Message #57, Response: Received: TCP Message #57, RTT: 2.00 ms
+2025-05-20 20:09:17,141 - Received: TCP Message #58
+2025-05-20 20:09:17,142 - Sent: TCP Message #58, Response: Received: TCP Message #58, RTT: 9.00 ms
+2025-05-20 20:09:17,153 - Received: TCP Message #59
+2025-05-20 20:09:17,154 - Sent: TCP Message #59, Response: Received: TCP Message #59, RTT: 0.00 ms
+2025-05-20 20:09:17,171 - Received: TCP Message #60
+2025-05-20 20:09:17,172 - Sent: TCP Message #60, Response: Received: TCP Message #60, RTT: 6.00 ms
+2025-05-20 20:09:17,185 - Received: TCP Message #61
+2025-05-20 20:09:17,186 - Sent: TCP Message #61, Response: Received: TCP Message #61, RTT: 2.00 ms
+2025-05-20 20:09:17,204 - Received: TCP Message #62
+2025-05-20 20:09:17,207 - Sent: TCP Message #62, Response: Received: TCP Message #62, RTT: 6.00 ms
+2025-05-20 20:09:17,225 - Received: TCP Message #63
+2025-05-20 20:09:17,228 - Sent: TCP Message #63, Response: Received: TCP Message #63, RTT: 8.00 ms
+2025-05-20 20:09:17,242 - Received: TCP Message #64
+2025-05-20 20:09:17,243 - Sent: TCP Message #64, Response: Received: TCP Message #64, RTT: 2.02 ms
+2025-05-20 20:09:17,259 - Received: TCP Message #65
+2025-05-20 20:09:17,260 - Sent: TCP Message #65, Response: Received: TCP Message #65, RTT: 5.00 ms
+2025-05-20 20:09:17,288 - Received: TCP Message #66
+2025-05-20 20:09:17,293 - Sent: TCP Message #66, Response: Received: TCP Message #66, RTT: 17.00 ms
+2025-05-20 20:09:17,307 - Received: TCP Message #67
+2025-05-20 20:09:17,309 - Sent: TCP Message #67, Response: Received: TCP Message #67, RTT: 3.01 ms
+2025-05-20 20:09:17,326 - Received: TCP Message #68
+2025-05-20 20:09:17,326 - Sent: TCP Message #68, Response: Received: TCP Message #68, RTT: 6.00 ms
+2025-05-20 20:09:17,358 - Received: TCP Message #69
+2025-05-20 20:09:17,376 - Sent: TCP Message #69, Response: Received: TCP Message #69, RTT: 21.00 ms
+2025-05-20 20:09:17,394 - Received: TCP Message #70
+2025-05-20 20:09:17,402 - Sent: TCP Message #70, Response: Received: TCP Message #70, RTT: 8.00 ms
+2025-05-20 20:09:17,422 - Received: TCP Message #71
+2025-05-20 20:09:17,425 - Sent: TCP Message #71, Response: Received: TCP Message #71, RTT: 8.00 ms
+2025-05-20 20:09:17,440 - Received: TCP Message #72
+2025-05-20 20:09:17,441 - Sent: TCP Message #72, Response: Received: TCP Message #72, RTT: 5.00 ms
+2025-05-20 20:09:17,454 - Received: TCP Message #73
+2025-05-20 20:09:17,456 - Sent: TCP Message #73, Response: Received: TCP Message #73, RTT: 2.00 ms
+2025-05-20 20:09:17,474 - Received: TCP Message #74
+2025-05-20 20:09:17,478 - Sent: TCP Message #74, Response: Received: TCP Message #74, RTT: 8.00 ms
+2025-05-20 20:09:17,492 - Received: TCP Message #75
+2025-05-20 20:09:17,494 - Sent: TCP Message #75, Response: Received: TCP Message #75, RTT: 3.98 ms
+2025-05-20 20:09:17,505 - Received: TCP Message #76
+2025-05-20 20:09:17,506 - Sent: TCP Message #76, Response: Received: TCP Message #76, RTT: 0.00 ms
+2025-05-20 20:09:17,526 - Received: TCP Message #77
+2025-05-20 20:09:17,527 - Sent: TCP Message #77, Response: Received: TCP Message #77, RTT: 9.00 ms
+2025-05-20 20:09:17,539 - Received: TCP Message #78
+2025-05-20 20:09:17,540 - Sent: TCP Message #78, Response: Received: TCP Message #78, RTT: 1.08 ms
+2025-05-20 20:09:17,555 - Received: TCP Message #79
+2025-05-20 20:09:17,557 - Sent: TCP Message #79, Response: Received: TCP Message #79, RTT: 3.98 ms
+2025-05-20 20:09:17,577 - Received: TCP Message #80
+2025-05-20 20:09:17,589 - Sent: TCP Message #80, Response: Received: TCP Message #80, RTT: 13.00 ms
+2025-05-20 20:09:17,603 - Received: TCP Message #81
+2025-05-20 20:09:17,607 - Sent: TCP Message #81, Response: Received: TCP Message #81, RTT: 4.00 ms
+2025-05-20 20:09:17,623 - Received: TCP Message #82
+2025-05-20 20:09:17,627 - Sent: TCP Message #82, Response: Received: TCP Message #82, RTT: 5.99 ms
+2025-05-20 20:09:17,640 - Received: TCP Message #83
+2025-05-20 20:09:17,691 - Sent: TCP Message #83, Response: Received: TCP Message #83, RTT: 2.00 ms
+2025-05-20 20:09:17,706 - Received: TCP Message #84
+2025-05-20 20:09:17,707 - Sent: TCP Message #84, Response: Received: TCP Message #84, RTT: 3.00 ms
+2025-05-20 20:09:17,724 - Received: TCP Message #85
+2025-05-20 20:09:17,725 - Sent: TCP Message #85, Response: Received: TCP Message #85, RTT: 6.00 ms
+2025-05-20 20:09:17,742 - Received: TCP Message #86
+2025-05-20 20:09:17,757 - Sent: TCP Message #86, Response: Received: TCP Message #86, RTT: 4.95 ms
+2025-05-20 20:09:17,773 - Received: TCP Message #87
+2025-05-20 20:09:17,774 - Sent: TCP Message #87, Response: Received: TCP Message #87, RTT: 5.00 ms
+2025-05-20 20:09:17,791 - Received: TCP Message #88
+2025-05-20 20:09:17,791 - Sent: TCP Message #88, Response: Received: TCP Message #88, RTT: 6.00 ms
+2025-05-20 20:09:17,808 - Received: TCP Message #89
+2025-05-20 20:09:17,809 - Sent: TCP Message #89, Response: Received: TCP Message #89, RTT: 6.00 ms
+2025-05-20 20:09:17,840 - Received: TCP Message #90
+2025-05-20 20:09:17,841 - Sent: TCP Message #90, Response: Received: TCP Message #90, RTT: 20.00 ms
+2025-05-20 20:09:17,852 - Received: TCP Message #91
+2025-05-20 20:09:17,854 - Sent: TCP Message #91, Response: Received: TCP Message #91, RTT: 0.00 ms
+2025-05-20 20:09:17,872 - Received: TCP Message #92
+2025-05-20 20:09:17,873 - Sent: TCP Message #92, Response: Received: TCP Message #92, RTT: 6.99 ms
+2025-05-20 20:09:17,885 - Received: TCP Message #93
+2025-05-20 20:09:17,887 - Sent: TCP Message #93, Response: Received: TCP Message #93, RTT: 1.00 ms
+2025-05-20 20:09:17,905 - Received: TCP Message #94
+2025-05-20 20:09:17,910 - Sent: TCP Message #94, Response: Received: TCP Message #94, RTT: 8.00 ms
+2025-05-20 20:09:17,921 - Received: TCP Message #95
+2025-05-20 20:09:17,922 - Sent: TCP Message #95, Response: Received: TCP Message #95, RTT: 0.00 ms
+2025-05-20 20:09:17,938 - Received: TCP Message #96
+2025-05-20 20:09:17,941 - Sent: TCP Message #96, Response: Received: TCP Message #96, RTT: 5.00 ms
+2025-05-20 20:09:17,959 - Received: TCP Message #97
+2025-05-20 20:09:17,960 - Sent: TCP Message #97, Response: Received: TCP Message #97, RTT: 7.00 ms
+2025-05-20 20:09:17,974 - Received: TCP Message #98
+2025-05-20 20:09:17,975 - Sent: TCP Message #98, Response: Received: TCP Message #98, RTT: 3.00 ms
+2025-05-20 20:09:17,991 - Received: TCP Message #99
+2025-05-20 20:09:17,992 - Sent: TCP Message #99, Response: Received: TCP Message #99, RTT: 4.00 ms
+2025-05-20 20:09:18,006 - Received: TCP Message #100
+2025-05-20 20:09:18,009 - Sent: TCP Message #100, Response: Received: TCP Message #100, RTT: 3.00 ms
+2025-05-20 20:09:18,027 - 
+--- TCP Performance Results ---
+2025-05-20 20:09:18,027 - Messages sent: 100
+2025-05-20 20:09:18,027 - Average RTT: 13.95 ms
+2025-05-20 20:09:18,028 - Min RTT: 0.00 ms
+2025-05-20 20:09:18,028 - Max RTT: 118.03 ms
+2025-05-20 20:09:18,028 - Throughput: 0.39 KB/s
+2025-05-20 20:09:18,071 - Connection closed
+2025-05-20 20:16:50,952 - TCP Server started on 127.0.0.1:65432
+2025-05-20 20:17:06,259 - TCP Server started on 127.0.0.1:65432
+2025-05-20 20:17:32,359 - Connected to TCP server at 127.0.0.1:65432
+2025-05-20 20:17:32,362 - Server shutdown by user
+2025-05-20 20:17:32,482 - Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-20 20:17:44,441 - TCP Server started on 127.0.0.1:65432
+2025-05-20 20:17:49,298 - Connected to TCP server at 127.0.0.1:65432
+2025-05-20 20:17:49,299 - Client connected: ('127.0.0.1', 65261)
+2025-05-20 20:17:49,300 - Received: TCP Message #1
+2025-05-20 20:17:49,300 - Sent: TCP Message #1, Response: Received: TCP Message #1, RTT: 1.00 ms
+2025-05-20 20:17:49,311 - Received: TCP Message #2
+2025-05-20 20:17:49,312 - Sent: TCP Message #2, Response: Received: TCP Message #2, RTT: 0.87 ms
+2025-05-20 20:17:49,329 - Received: TCP Message #3
+2025-05-20 20:17:49,332 - Sent: TCP Message #3, Response: Received: TCP Message #3, RTT: 2.99 ms
+2025-05-20 20:17:49,348 - Received: TCP Message #4
+2025-05-20 20:17:49,350 - Sent: TCP Message #4, Response: Received: TCP Message #4, RTT: 4.00 ms
+2025-05-20 20:17:49,365 - Received: TCP Message #5
+2025-05-20 20:17:49,367 - Sent: TCP Message #5, Response: Received: TCP Message #5, RTT: 5.00 ms
+2025-05-20 20:17:49,414 - Received: TCP Message #6
+2025-05-20 20:17:49,420 - Sent: TCP Message #6, Response: Received: TCP Message #6, RTT: 36.01 ms
+2025-05-20 20:17:49,452 - Received: TCP Message #7
+2025-05-20 20:17:49,481 - Sent: TCP Message #7, Response: Received: TCP Message #7, RTT: 20.00 ms
+2025-05-20 20:17:49,510 - Received: TCP Message #8
+2025-05-20 20:17:49,521 - Sent: TCP Message #8, Response: Received: TCP Message #8, RTT: 14.00 ms
+2025-05-20 20:17:49,573 - Received: TCP Message #9
+2025-05-20 20:17:49,603 - Sent: TCP Message #9, Response: Received: TCP Message #9, RTT: 41.01 ms
+2025-05-20 20:17:49,634 - Received: TCP Message #10
+2025-05-20 20:17:49,638 - Sent: TCP Message #10, Response: Received: TCP Message #10, RTT: 15.00 ms
+2025-05-20 20:17:49,654 - Received: TCP Message #11
+2025-05-20 20:17:49,656 - Sent: TCP Message #11, Response: Received: TCP Message #11, RTT: 5.00 ms
+2025-05-20 20:17:49,683 - Received: TCP Message #12
+2025-05-20 20:17:49,685 - Sent: TCP Message #12, Response: Received: TCP Message #12, RTT: 17.00 ms
+2025-05-20 20:17:49,701 - Received: TCP Message #13
+2025-05-20 20:17:49,713 - Sent: TCP Message #13, Response: Received: TCP Message #13, RTT: 6.00 ms
+2025-05-20 20:17:49,738 - Received: TCP Message #14
+2025-05-20 20:17:49,756 - Sent: TCP Message #14, Response: Received: TCP Message #14, RTT: 13.00 ms
+2025-05-20 20:17:49,782 - Received: TCP Message #15
+2025-05-20 20:17:49,785 - Sent: TCP Message #15, Response: Received: TCP Message #15, RTT: 15.28 ms
+2025-05-20 20:17:49,807 - Received: TCP Message #16
+2025-05-20 20:17:49,831 - Sent: TCP Message #16, Response: Received: TCP Message #16, RTT: 7.00 ms
+2025-05-20 20:17:49,850 - Received: TCP Message #17
+2025-05-20 20:17:49,851 - Sent: TCP Message #17, Response: Received: TCP Message #17, RTT: 8.00 ms
+2025-05-20 20:17:49,867 - Received: TCP Message #18
+2025-05-20 20:17:49,870 - Sent: TCP Message #18, Response: Received: TCP Message #18, RTT: 4.99 ms
+2025-05-20 20:17:49,884 - Received: TCP Message #19
+2025-05-20 20:17:49,885 - Sent: TCP Message #19, Response: Received: TCP Message #19, RTT: 3.00 ms
+2025-05-20 20:17:49,904 - Received: TCP Message #20
+2025-05-20 20:17:49,905 - Sent: TCP Message #20, Response: Received: TCP Message #20, RTT: 7.00 ms
+2025-05-20 20:17:49,933 - Received: TCP Message #21
+2025-05-20 20:17:49,934 - Sent: TCP Message #21, Response: Received: TCP Message #21, RTT: 16.00 ms
+2025-05-20 20:17:49,956 - Received: TCP Message #22
+2025-05-20 20:17:49,969 - Sent: TCP Message #22, Response: Received: TCP Message #22, RTT: 11.03 ms
+2025-05-20 20:17:49,987 - Received: TCP Message #23
+2025-05-20 20:17:49,988 - Sent: TCP Message #23, Response: Received: TCP Message #23, RTT: 7.99 ms
+2025-05-20 20:17:50,003 - Received: TCP Message #24
+2025-05-20 20:17:50,004 - Sent: TCP Message #24, Response: Received: TCP Message #24, RTT: 3.00 ms
+2025-05-20 20:17:50,017 - Received: TCP Message #25
+2025-05-20 20:17:50,019 - Sent: TCP Message #25, Response: Received: TCP Message #25, RTT: 3.00 ms
+2025-05-20 20:17:50,096 - Received: TCP Message #26
+2025-05-20 20:17:50,149 - Sent: TCP Message #26, Response: Received: TCP Message #26, RTT: 66.02 ms
+2025-05-20 20:17:50,327 - Received: TCP Message #27
+2025-05-20 20:17:50,399 - Sent: TCP Message #27, Response: Received: TCP Message #27, RTT: 166.04 ms
+2025-05-20 20:17:50,416 - Received: TCP Message #28
+2025-05-20 20:17:50,419 - Sent: TCP Message #28, Response: Received: TCP Message #28, RTT: 6.00 ms
+2025-05-20 20:17:50,473 - Received: TCP Message #29
+2025-05-20 20:17:50,482 - Sent: TCP Message #29, Response: Received: TCP Message #29, RTT: 45.01 ms
+2025-05-20 20:17:50,523 - Received: TCP Message #30
+2025-05-20 20:17:50,535 - Sent: TCP Message #30, Response: Received: TCP Message #30, RTT: 32.00 ms
+2025-05-20 20:17:50,553 - Received: TCP Message #31
+2025-05-20 20:17:50,568 - Sent: TCP Message #31, Response: Received: TCP Message #31, RTT: 8.00 ms
+2025-05-20 20:17:50,581 - Received: TCP Message #32
+2025-05-20 20:17:50,584 - Sent: TCP Message #32, Response: Received: TCP Message #32, RTT: 2.00 ms
+2025-05-20 20:17:50,603 - Received: TCP Message #33
+2025-05-20 20:17:50,604 - Sent: TCP Message #33, Response: Received: TCP Message #33, RTT: 8.00 ms
+2025-05-20 20:17:50,632 - Received: TCP Message #34
+2025-05-20 20:17:50,637 - Sent: TCP Message #34, Response: Received: TCP Message #34, RTT: 16.01 ms
+2025-05-20 20:17:50,651 - Received: TCP Message #35
+2025-05-20 20:17:50,681 - Sent: TCP Message #35, Response: Received: TCP Message #35, RTT: 3.00 ms
+2025-05-20 20:17:50,701 - Received: TCP Message #36
+2025-05-20 20:17:50,702 - Sent: TCP Message #36, Response: Received: TCP Message #36, RTT: 9.00 ms
+2025-05-20 20:17:50,717 - Received: TCP Message #37
+2025-05-20 20:17:50,718 - Sent: TCP Message #37, Response: Received: TCP Message #37, RTT: 4.00 ms
+2025-05-20 20:17:50,735 - Received: TCP Message #38
+2025-05-20 20:17:50,750 - Sent: TCP Message #38, Response: Received: TCP Message #38, RTT: 8.01 ms
+2025-05-20 20:17:50,782 - Received: TCP Message #39
+2025-05-20 20:17:50,785 - Sent: TCP Message #39, Response: Received: TCP Message #39, RTT: 21.28 ms
+2025-05-20 20:17:50,800 - Received: TCP Message #40
+2025-05-20 20:17:50,800 - Sent: TCP Message #40, Response: Received: TCP Message #40, RTT: 4.00 ms
+2025-05-20 20:17:50,816 - Received: TCP Message #41
+2025-05-20 20:17:50,817 - Sent: TCP Message #41, Response: Received: TCP Message #41, RTT: 5.00 ms
+2025-05-20 20:17:50,833 - Received: TCP Message #42
+2025-05-20 20:17:50,835 - Sent: TCP Message #42, Response: Received: TCP Message #42, RTT: 6.00 ms
+2025-05-20 20:17:50,852 - Received: TCP Message #43
+2025-05-20 20:17:50,876 - Sent: TCP Message #43, Response: Received: TCP Message #43, RTT: 6.00 ms
+2025-05-20 20:17:50,888 - Received: TCP Message #44
+2025-05-20 20:17:50,904 - Sent: TCP Message #44, Response: Received: TCP Message #44, RTT: 0.88 ms
+2025-05-20 20:17:50,933 - Received: TCP Message #45
+2025-05-20 20:17:50,936 - Sent: TCP Message #45, Response: Received: TCP Message #45, RTT: 19.00 ms
+2025-05-20 20:17:50,954 - Received: TCP Message #46
+2025-05-20 20:17:50,955 - Sent: TCP Message #46, Response: Received: TCP Message #46, RTT: 7.00 ms
+2025-05-20 20:17:51,000 - Received: TCP Message #47
+2025-05-20 20:17:51,004 - Sent: TCP Message #47, Response: Received: TCP Message #47, RTT: 35.01 ms
+2025-05-20 20:17:51,015 - Received: TCP Message #48
+2025-05-20 20:17:51,016 - Sent: TCP Message #48, Response: Received: TCP Message #48, RTT: 0.89 ms
+2025-05-20 20:17:51,033 - Received: TCP Message #49
+2025-05-20 20:17:51,034 - Sent: TCP Message #49, Response: Received: TCP Message #49, RTT: 6.00 ms
+2025-05-20 20:17:51,048 - Received: TCP Message #50
+2025-05-20 20:17:51,050 - Sent: TCP Message #50, Response: Received: TCP Message #50, RTT: 4.00 ms
+2025-05-20 20:17:51,065 - Received: TCP Message #51
+2025-05-20 20:17:51,066 - Sent: TCP Message #51, Response: Received: TCP Message #51, RTT: 3.00 ms
+2025-05-20 20:17:51,094 - Received: TCP Message #52
+2025-05-20 20:17:51,097 - Sent: TCP Message #52, Response: Received: TCP Message #52, RTT: 16.00 ms
+2025-05-20 20:17:51,117 - Received: TCP Message #53
+2025-05-20 20:17:51,118 - Sent: TCP Message #53, Response: Received: TCP Message #53, RTT: 8.00 ms
+2025-05-20 20:17:51,131 - Received: TCP Message #54
+2025-05-20 20:17:51,135 - Sent: TCP Message #54, Response: Received: TCP Message #54, RTT: 2.03 ms
+2025-05-20 20:17:51,149 - Received: TCP Message #55
+2025-05-20 20:17:51,151 - Sent: TCP Message #55, Response: Received: TCP Message #55, RTT: 3.00 ms
+2025-05-20 20:17:51,172 - Received: TCP Message #56
+2025-05-20 20:17:51,186 - Sent: TCP Message #56, Response: Received: TCP Message #56, RTT: 11.00 ms
+2025-05-20 20:17:51,201 - Received: TCP Message #57
+2025-05-20 20:17:51,214 - Sent: TCP Message #57, Response: Received: TCP Message #57, RTT: 5.10 ms
+2025-05-20 20:17:51,261 - Received: TCP Message #58
+2025-05-20 20:17:51,274 - Sent: TCP Message #58, Response: Received: TCP Message #58, RTT: 35.01 ms
+2025-05-20 20:17:51,287 - Received: TCP Message #59
+2025-05-20 20:17:51,301 - Sent: TCP Message #59, Response: Received: TCP Message #59, RTT: 0.98 ms
+2025-05-20 20:17:51,339 - Received: TCP Message #60
+2025-05-20 20:17:51,439 - Sent: TCP Message #60, Response: Received: TCP Message #60, RTT: 28.01 ms
+2025-05-20 20:17:51,502 - Received: TCP Message #61
+2025-05-20 20:17:51,538 - Sent: TCP Message #61, Response: Received: TCP Message #61, RTT: 40.01 ms
+2025-05-20 20:17:51,563 - Received: TCP Message #62
+2025-05-20 20:17:51,588 - Sent: TCP Message #62, Response: Received: TCP Message #62, RTT: 14.98 ms
+2025-05-20 20:17:51,617 - Received: TCP Message #63
+2025-05-20 20:17:51,637 - Sent: TCP Message #63, Response: Received: TCP Message #63, RTT: 18.00 ms
+2025-05-20 20:17:51,672 - Received: TCP Message #64
+2025-05-20 20:17:51,705 - Sent: TCP Message #64, Response: Received: TCP Message #64, RTT: 24.00 ms
+2025-05-20 20:17:51,731 - Received: TCP Message #65
+2025-05-20 20:17:51,785 - Sent: TCP Message #65, Response: Received: TCP Message #65, RTT: 14.00 ms
+2025-05-20 20:17:51,816 - Received: TCP Message #66
+2025-05-20 20:17:51,839 - Sent: TCP Message #66, Response: Received: TCP Message #66, RTT: 22.01 ms
+2025-05-20 20:17:51,854 - Received: TCP Message #67
+2025-05-20 20:17:51,888 - Sent: TCP Message #67, Response: Received: TCP Message #67, RTT: 3.98 ms
+2025-05-20 20:17:51,919 - Received: TCP Message #68
+2025-05-20 20:17:51,936 - Sent: TCP Message #68, Response: Received: TCP Message #68, RTT: 21.00 ms
+2025-05-20 20:17:51,964 - Received: TCP Message #69
+2025-05-20 20:17:51,972 - Sent: TCP Message #69, Response: Received: TCP Message #69, RTT: 17.00 ms
+2025-05-20 20:17:51,989 - Received: TCP Message #70
+2025-05-20 20:17:51,999 - Sent: TCP Message #70, Response: Received: TCP Message #70, RTT: 6.00 ms
+2025-05-20 20:17:52,053 - Received: TCP Message #71
+2025-05-20 20:17:52,119 - Sent: TCP Message #71, Response: Received: TCP Message #71, RTT: 38.01 ms
+2025-05-20 20:17:52,149 - Received: TCP Message #72
+2025-05-20 20:17:52,152 - Sent: TCP Message #72, Response: Received: TCP Message #72, RTT: 13.00 ms
+2025-05-20 20:17:52,228 - Received: TCP Message #73
+2025-05-20 20:17:52,248 - Sent: TCP Message #73, Response: Received: TCP Message #73, RTT: 66.02 ms
+2025-05-20 20:17:52,269 - Received: TCP Message #74
+2025-05-20 20:17:52,282 - Sent: TCP Message #74, Response: Received: TCP Message #74, RTT: 11.01 ms
+2025-05-20 20:17:52,304 - Received: TCP Message #75
+2025-05-20 20:17:52,320 - Sent: TCP Message #75, Response: Received: TCP Message #75, RTT: 11.00 ms
+2025-05-20 20:17:52,334 - Received: TCP Message #76
+2025-05-20 20:17:52,338 - Sent: TCP Message #76, Response: Received: TCP Message #76, RTT: 1.99 ms
+2025-05-20 20:17:52,355 - Received: TCP Message #77
+2025-05-20 20:17:52,363 - Sent: TCP Message #77, Response: Received: TCP Message #77, RTT: 3.00 ms
+2025-05-20 20:17:52,386 - Received: TCP Message #78
+2025-05-20 20:17:52,387 - Sent: TCP Message #78, Response: Received: TCP Message #78, RTT: 10.00 ms
+2025-05-20 20:17:52,399 - Received: TCP Message #79
+2025-05-20 20:17:52,401 - Sent: TCP Message #79, Response: Received: TCP Message #79, RTT: 2.00 ms
+2025-05-20 20:17:52,416 - Received: TCP Message #80
+2025-05-20 20:17:52,418 - Sent: TCP Message #80, Response: Received: TCP Message #80, RTT: 3.00 ms
+2025-05-20 20:17:52,437 - Received: TCP Message #81
+2025-05-20 20:17:52,449 - Sent: TCP Message #81, Response: Received: TCP Message #81, RTT: 8.00 ms
+2025-05-20 20:17:52,472 - Received: TCP Message #82
+2025-05-20 20:17:52,510 - Sent: TCP Message #82, Response: Received: TCP Message #82, RTT: 12.01 ms
+2025-05-20 20:17:52,535 - Received: TCP Message #83
+2025-05-20 20:17:52,539 - Sent: TCP Message #83, Response: Received: TCP Message #83, RTT: 14.00 ms
+2025-05-20 20:17:52,569 - Received: TCP Message #84
+2025-05-20 20:17:52,584 - Sent: TCP Message #84, Response: Received: TCP Message #84, RTT: 19.00 ms
+2025-05-20 20:17:52,614 - Received: TCP Message #85
+2025-05-20 20:17:52,617 - Sent: TCP Message #85, Response: Received: TCP Message #85, RTT: 20.00 ms
+2025-05-20 20:17:52,635 - Received: TCP Message #86
+2025-05-20 20:17:52,638 - Sent: TCP Message #86, Response: Received: TCP Message #86, RTT: 8.00 ms
+2025-05-20 20:17:52,652 - Received: TCP Message #87
+2025-05-20 20:17:52,658 - Sent: TCP Message #87, Response: Received: TCP Message #87, RTT: 3.00 ms
+2025-05-20 20:17:52,669 - Received: TCP Message #88
+2025-05-20 20:17:52,670 - Sent: TCP Message #88, Response: Received: TCP Message #88, RTT: 0.88 ms
+2025-05-20 20:17:52,689 - Received: TCP Message #89
+2025-05-20 20:17:52,704 - Sent: TCP Message #89, Response: Received: TCP Message #89, RTT: 9.00 ms
+2025-05-20 20:17:52,731 - Received: TCP Message #90
+2025-05-20 20:17:52,737 - Sent: TCP Message #90, Response: Received: TCP Message #90, RTT: 17.01 ms
+2025-05-20 20:17:52,762 - Received: TCP Message #91
+2025-05-20 20:17:52,778 - Sent: TCP Message #91, Response: Received: TCP Message #91, RTT: 13.98 ms
+2025-05-20 20:17:52,803 - Received: TCP Message #92
+2025-05-20 20:17:52,805 - Sent: TCP Message #92, Response: Received: TCP Message #92, RTT: 15.00 ms
+2025-05-20 20:17:52,849 - Received: TCP Message #93
+2025-05-20 20:17:52,850 - Sent: TCP Message #93, Response: Received: TCP Message #93, RTT: 33.01 ms
+2025-05-20 20:17:52,861 - Received: TCP Message #94
+2025-05-20 20:17:52,863 - Sent: TCP Message #94, Response: Received: TCP Message #94, RTT: 0.88 ms
+2025-05-20 20:17:53,014 - Received: TCP Message #95
+2025-05-20 20:17:53,187 - Sent: TCP Message #95, Response: Received: TCP Message #95, RTT: 140.04 ms
+2025-05-20 20:17:53,298 - Received: TCP Message #96
+2025-05-20 20:17:53,310 - Sent: TCP Message #96, Response: Received: TCP Message #96, RTT: 100.02 ms
+2025-05-20 20:17:53,413 - Received: TCP Message #97
+2025-05-20 20:17:53,420 - Sent: TCP Message #97, Response: Received: TCP Message #97, RTT: 88.02 ms
+2025-05-20 20:17:53,451 - Received: TCP Message #98
+2025-05-20 20:17:53,452 - Sent: TCP Message #98, Response: Received: TCP Message #98, RTT: 20.00 ms
+2025-05-20 20:17:53,471 - Received: TCP Message #99
+2025-05-20 20:17:53,503 - Sent: TCP Message #99, Response: Received: TCP Message #99, RTT: 8.00 ms
+2025-05-20 20:17:53,521 - Received: TCP Message #100
+2025-05-20 20:17:53,538 - Sent: TCP Message #100, Response: Received: TCP Message #100, RTT: 6.00 ms
+2025-05-20 20:17:53,572 - 
+--- TCP Performance Results ---
+2025-05-20 20:17:53,572 - Messages sent: 100
+2025-05-20 20:17:53,573 - Average RTT: 17.43 ms
+2025-05-20 20:17:53,573 - Min RTT: 0.87 ms
+2025-05-20 20:17:53,574 - Max RTT: 166.04 ms
+2025-05-20 20:17:53,574 - Throughput: 0.34 KB/s
+2025-05-20 20:17:53,610 - Connection closed
